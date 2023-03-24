@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.home_hero_content {
+    /* background: linear-gradient(to right,rgba(245,245,245,.8),rgba(245,245,245,.8)),url(https://tailwindcss.com/_next/static/media/installation.50c59fdd.jpg); */
+    background: url(https://tailwindcss.com/_next/static/media/installation.50c59fdd.jpg);
+    background-position: center;
+    
+}
+
+.home_hero {
+    margin: 0;
+    
+}
+
+.about_hero_content {
+
+    background: linear-gradient(to right, rgba(245, 245, 245, .8), rgba(245, 245, 245, .8)), url(https://static.vecteezy.com/system/resources/previews/005/658/953/original/wallpaper-with-blue-light-color-blue-grid-mosaic-background-free-vector.jpg);
+
+}
+
+.get_know {
+    margin-left: 8rem;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hr1 {
+    
+        position:relative;
+        height:1px;
+        background-color:rgb(255, 255, 255);
+       
+}
+
+/* a{
+    text-decoration: none;
+    color: black;
+} */
+
+.live_btn{
+    padding: 15%;
+}
+
+.footer_content{
+    /* background: url(https://tailwindcss.com/_next/static/media/installation.50c59fdd.jpg); */
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    background-origin: content-box;
+    color: white;
+    
+}
