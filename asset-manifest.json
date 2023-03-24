@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VikashApp/static/css/main.01d2e01b.css",
+    "main.js": "/VikashApp/static/js/main.b7d4f0fa.js",
+    "static/js/787.de2c2cfc.chunk.js": "/VikashApp/static/js/787.de2c2cfc.chunk.js",
+    "static/media/NewsPo.png": "/VikashApp/static/media/NewsPo.801b4feed032e7433987.png",
+    "static/media/WeatherPo.png": "/VikashApp/static/media/WeatherPo.6979dff7d0ae3bfabec8.png",
+    "static/media/FoodPo.png": "/VikashApp/static/media/FoodPo.e44c4f0f077d677154cb.png",
+    "static/media/TextusPo.png": "/VikashApp/static/media/TextusPo.e25cf9b8a448081f637e.png",
+    "index.html": "/VikashApp/index.html",
+    "main.01d2e01b.css.map": "/VikashApp/static/css/main.01d2e01b.css.map",
+    "main.b7d4f0fa.js.map": "/VikashApp/static/js/main.b7d4f0fa.js.map",
+    "787.de2c2cfc.chunk.js.map": "/VikashApp/static/js/787.de2c2cfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d2e01b.css",
+    "static/js/main.b7d4f0fa.js"
+  ]
+}
