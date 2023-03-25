@@ -61,14 +61,14 @@ export default function Main() {
                                 I'm a <strong>Frontend Web Developer</strong> building the
                                 Front-end of Websites and Web Applications that leads to the
                                 success of the overall product. Check out some of my work in the
-                                <strong>Projects</strong> section.
+                                <strong> Projects</strong> section.
                             </p>
                             <p className='fs-5'>
                                 I also like sharing content related to the stuff that I have
                                 learned over the years in <strong>Web Development</strong> so it
                                 can help other people of the Dev Community. Feel free to Connect
                                 or Follow me on my
-                                <a rel="noreferrer" href="#" target="_blank">Linkedin</a>
+                                <a rel="noreferrer" href="https://www.linkedin.com/in/vikash-shinde-b77305204/" target="_blank">Linkedin</a>
                                 where I post useful content related to Web Development and
                                 Programming.
                             </p>
@@ -76,7 +76,7 @@ export default function Main() {
                                 I'm open to <strong>Job</strong> opportunities where I can
                                 contribute, learn and grow. If you have a good opportunity that
                                 matches my skills and experience then don't hesitate to
-                                <strong>contact</strong> me.
+                                <strong> contact</strong> me.
                             </p>
                         </div>
                         <div className="col px-5 mx-5">
