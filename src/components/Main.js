@@ -1,16 +1,35 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import './utility.css'
-
+import Project_1 from './Project_1';
+import Project_2 from './Project_2';
+import Project_3 from './Project_3';
+import Project_4 from './Project_4';
 import Navpage from './Navpage';
 import Footer from './Footer';
+import {
+    BrowserRouter as Router,
+    Routes,
+    Route
+  } from "react-router-dom";
 
 
 export default function Main() {
     return (
         <>
 
-            <Navpage />
+<Router>
+<Navpage />
+                <Routes>
+                    <Route exact path="/project01" element={<Project_1 />} />
+                    <Route exact path="/project02" element={<Project_2 />} />
+                    <Route exact path="/project03" element={<Project_3 />} />
+                    <Route exact path="/project04" element={<Project_4 />} />
+
+                </Routes>
+                
+            
+           
             <section className='home_hero' id='Home'>
                 <div className="position-relative overflow-hidden text-center p-3 p-md-5 my-0  home_hero_content" >
                     <div className="col-md-8 p-lg-5 mx-auto my-5 " >
@@ -159,8 +178,8 @@ export default function Main() {
 
             {/* footers */}
         
-
-
+            
+            </Router>
         </>
     )
 }

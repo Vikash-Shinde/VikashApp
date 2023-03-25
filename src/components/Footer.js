@@ -29,7 +29,7 @@ export default function Footer() {
     <hr />
         &copy; Copyright 2023
         <script>document.write(new Date().getFullYear())</script>. Made by
-        <a rel="noreferrer" target="_blank" href="https://rammaheshwari.com"> vikashShinde</a>
+        <a rel="noreferrer" target="_blank" href="https://Vikash-Shinde.github.io/VikashApp"> vikashShinde</a>
       </div>
  
 </div>
